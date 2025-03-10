@@ -5,6 +5,7 @@ using _2._3_HomeWork.Ex4;
 using _2._3_HomeWork.Ex5;
 using _2._3_HomeWork.Ex6;
 using _2._3_HomeWork.Ex7;
+using _2._3_HomeWork.Ex8;
 using System.Runtime.InteropServices;
 
 namespace _2._3_HomeWork
@@ -59,6 +60,12 @@ namespace _2._3_HomeWork
             //getLion.LionZoo("aaaaa");
             //var getElep = new Elephant();
             //getElep.Elep("pspspsps");
+
+            ////////////// 8)
+
+            //var getPhone = new Phone();
+            //getPhone.MakeCall("98987973827");
+
 
         }
     }
